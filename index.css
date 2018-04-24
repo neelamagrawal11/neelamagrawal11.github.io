@@ -13,7 +13,7 @@
 }
 
 body{
-	width: 80%;
+	width: 90%;
 	margin: 0 auto;
 	background-color:#DBDBDB;
 }
@@ -203,12 +203,12 @@ text-decoration: none;
 }
 
 .colPe1{
-	width: 70%;
+	width: 65%;
 
 }
 
 .colPe2{
-	width: 30%;
+	width: 35%;
 }
 
 .personalBackground2{
@@ -254,7 +254,7 @@ text-decoration: none;
 }
 
 .pecol1{
-	width: 30%;
+	
 	font-size:1.2rem;
 	padding-right:20px;
 	text-align: center;
@@ -303,26 +303,28 @@ text-decoration: none;
 	padding: 20px;
 }
 
+
 .peBackground1 img{
 	width:80%;
+	padding-bottom: 20px;
 }
 
-#ulCompany{
+.ulCompany{
 	list-style-type: none;
-	padding:20px 0;
+	
 }
 
-#ulCompany a{
+.ulCompany a{
 text-decoration: none;
 color:#FFFFFF;
 /*margin-top: 10px;*/
 }
 
-#ulCompany li{
+.ulCompany li{
 	padding-bottom: 10px;
 }
 
-#ulCompany a:hover {
+.ulCompany a:hover {
     opacity:0.6;
 }
 
